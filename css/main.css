@@ -2804,6 +2804,11 @@ html.no-csstransitions .home-content__main {
   background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, black 100%);
 }
 
+.full-product-image {
+  background-image: url(../images/ClassClockFullscreen.png);
+}
+
+
 
 /* ------------------------------------------------------------------- 
  * ## video button
