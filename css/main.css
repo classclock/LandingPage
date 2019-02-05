@@ -100,8 +100,12 @@ body {
  * ------------------------------------------------------------------- */
 a {
   color: #5b4f96;
+}
+
+i.fas, a {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+
 }
 
 a:hover,
@@ -3631,6 +3635,7 @@ html.no-csstransitions .home-content__main {
   display: inline-block;
   margin: 0 6px;
   padding-left: 0;
+  font-size: 60px;
 }
 
 .s-download .download-badges li a {
@@ -3644,6 +3649,35 @@ html.no-csstransitions .home-content__main {
   background-position: center;
   background-size: 232px 72px;
 }
+
+
+.s-download a.iconlink i {
+
+  color: #ffffff;
+  font-size: 1.125em;
+  
+
+}
+.s-download a.iconlink {
+  font-size: 2em;
+  
+  background-color: black;
+  border-radius: 8px;
+  color: #ffffff;
+  padding: 11px 15px;
+  font-weight: bold;
+}
+
+.s-download a.iconlink:hover,
+.s-download a.iconlink:focus,
+.s-download a.iconlink:active,
+.s-download a.iconlink:hover i,
+.s-download a.iconlink:focus i,
+.s-download a.iconlink:active i {
+  /* background-color: #5b4f96; */
+  color: rgba(255, 255, 255, 0.6);
+}
+
 
 .s-download .download-badges li a.badge-appstore {
   background-image: url("../images/appstore.png");
