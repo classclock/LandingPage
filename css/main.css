@@ -1730,8 +1730,14 @@ input::-moz-focus-inner {
 }
 
 .header-logo img {
-  width: 130px;
+  /* width: 130px; */
   height: 36px;
+  vertical-align: middle;
+}
+
+.site-logo span {
+  font-weight: bold;
+  color: white;
 }
 
 
