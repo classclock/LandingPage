@@ -3665,22 +3665,23 @@ html.no-csstransitions .home-content__main {
   
 
 }
-.s-download a.iconlink {
-  font-size: 2em;
+.s-download button.iconlink {
+  font-size: 1.5em;
   
   background-color: black;
+  border-color:black;
   border-radius: 8px;
   color: #ffffff;
-  padding: 11px 15px;
+  /* padding: 11px 15px; */
   font-weight: bold;
 }
 
-.s-download a.iconlink:hover,
-.s-download a.iconlink:focus,
-.s-download a.iconlink:active,
-.s-download a.iconlink:hover i,
-.s-download a.iconlink:focus i,
-.s-download a.iconlink:active i {
+.s-download button.iconlink:hover,
+.s-download button.iconlink:focus,
+.s-download button.iconlink:active,
+.s-download button.iconlink:hover i,
+.s-download button.iconlink:focus i,
+.s-download button.iconlink:active i {
   /* background-color: #5b4f96; */
   color: rgba(255, 255, 255, 0.6);
 }
