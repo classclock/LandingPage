@@ -102,6 +102,18 @@ a {
   color: #5b4f96;
 }
 
+p.lead a {
+  color: #d1cdcd;
+  text-decoration: underline;
+}
+
+p.lead a:hover,
+p.lead a:focus,
+p.lead a:active {
+  
+  font-weight: bold
+}
+
 i.fas, a {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
