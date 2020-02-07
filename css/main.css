@@ -3935,16 +3935,16 @@ html.no-csstransitions .home-content__main {
 
 .footer__social li {
   display: inline-block;
-  font-size: 15px;
+  font-size: 30px;
   padding: 0;
   margin-right: 4px;
 }
 
 .footer__social li a {
   display: block;
-  line-height: 36px;
-  height: 36px;
-  width: 36px;
+  line-height: 44px;
+  height: 40px;
+  width: 40px;
   text-align: center;
   background-color: rgba(255, 255, 255, 0.03);
   color: #ffffff;
