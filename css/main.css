@@ -4162,4 +4162,9 @@ html.no-csstransitions .home-content__main {
 
 }
 
+/* Manual changes */
+.col-full + .col-full {
+    margin-top: 2em;
+}
+
 /*# sourceMappingURL=main.css.map */
