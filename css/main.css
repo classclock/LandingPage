@@ -104,7 +104,8 @@ a.link-dark {
 
 a.link-light {
   color: #d1cdcd;
-  font-weight: bolder;
+  /* font-weight: bolder; */
+  text-decoration: underline;
 }
 
 p.lead a {
