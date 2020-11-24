@@ -4,7 +4,8 @@ githubURL: https://github.com/MoralCode/ClassClock
 slackURL: https://join.slack.com/t/classclock/shared_invite/zt-6k65iqmt-oNO5YOWEQ7dOOCu0vbkEZw
 twitterURL: https://twitter.com/classclockapp
 instagramURL: https://www.instagram.com/classclockapp/
-matrixURL: https://matrix.to/#/#classclockapp:matrix.org
+gitterURL: https://gitter.im/MoralCode/ClassClock
+
 
 plugins:
   - jekyll-sitemap
