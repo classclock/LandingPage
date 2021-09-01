@@ -2198,7 +2198,7 @@ input::-moz-focus-inner {
 .home-content__social {
   list-style: none;
   margin: 0;
-  font-size: 10px;
+  /* font-size: 10px; */
   line-height: 2.4rem;
   text-transform: uppercase;
   letter-spacing: 4px;
